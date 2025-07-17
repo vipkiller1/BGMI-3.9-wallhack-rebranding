@@ -1,1 +1,11 @@
-
+{
+  "serverstatus": "true",
+  "noticemode": "true",
+  "dataclearmode": "false",
+  "servermeassage": "Under Maintenance",
+  "opentime": "Tomorrow 11AM",
+  "libs": "https://github.com/anant095/HackingAndroid.site/raw/refs/heads/main/libAkAudioVisiual.so",
+  "notice_title": "Safety Notice",
+  "notice_body": "Main accounts logout kar k rakh lo for safety",
+  "floatingtext": ""
+}
