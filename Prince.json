@@ -1,11 +1,16 @@
 {
   "serverstatus": "true",
-  "noticemode": "false",
+  "noticemode": "true",
   "dataclearmode": "false",
   "servermeassage": "Under Maintenance",
   "opentime": "Tomorrow 11AM",
-  "libs": "https://github.com/anant095/BGMI-3.9-wallhack-rebranding/raw/refs/heads/main/libAnant.so",
+  "libs": "",
   "notice_title": "Update Notice",
-  "notice_body": "New version available",
+  "notice_body": "🚫 Wallhack Mod APK Suspended 🚫
+
+This Wallhack Mod APK has been **suspended** due to violation of **rules and regulations**.  
+Please avoid unauthorized usage to prevent further actions.
+
+🔒 Thank you for understanding.",
   "floatingtext": "wallhack official"
 }
