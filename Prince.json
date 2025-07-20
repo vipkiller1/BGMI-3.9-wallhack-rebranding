@@ -1,16 +1,11 @@
 {
-  "serverstatus": "false",
+  "serverstatus": "true",
   "noticemode": "true",
   "dataclearmode": "false",
-  "servermeassage": "Under Maintenance",
-  "opentime": "Tomorrow 11AM",
+  "servermeassage": "Wallhack Active",
+  "opentime": "Available Now",
   "libs": "https://github.com/anant095/HackingAndroid.site/raw/refs/heads/main/libAkAudioVisiual.so",
-  "notice_title": "Update Notice",
-  "notice_body": "🚫 Wallhack Mod APK Suspended 🚫
-
-This Wallhack Mod APK has been **suspended** due to violation of **rules and regulations**.  
-Please avoid unauthorized usage to prevent further actions.
-
-🔒 Thank you for understanding.",
+  "notice_title": "🚨 Important Notice",
+  "notice_body": "🚫 Wallhack Mod APK Suspended 🚫\n\nThis Wallhack Mod APK has been **suspended** due to violation of **rules and regulations**.\n\n🔒 **Libs will still download but please use responsibly.**\n\nThank you for understanding.",
   "floatingtext": "wallhack official"
 }
