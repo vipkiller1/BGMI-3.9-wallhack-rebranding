@@ -1,17 +1,18 @@
 {
   "serverstatus": "true",
   "noticemode": "false",
-  "servermeassage": "Maintenance running!",
-  "opentime": "10:00 AM",
+  "servermeassage": "Server running",
+  "opentime": "24/7",
   "notice_title": "Notice",
-  "notice_body": "Welcome!",
-  "floatingtext": "🔥 Hacking Android YT 🔥",
+  "notice_body": "All systems fine",
+  "floatingtext": "Welcome to Loader!",
 
   "green_lib": "https://github.com/anant095/BGMI-3.9-wallhack-rebranding/raw/refs/heads/main/libFALL.so",
-  "yellow_lib": "",
-  "brutal_lib": "https://example.com/libbrutal.so",
+  "green_msg": "Done",
 
-  "green_msg": "Green Body Activated ✅",
+  "yellow_lib": "",
   "yellow_msg": "Coming Soon",
-  "brutal_msg": "Brutal WH Loaded 🚀"
+
+  "brutal_lib": "https://example.com/libbrutal.so",
+  "brutal_msg": "Successful Active"
 }
