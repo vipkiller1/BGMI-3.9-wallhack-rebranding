@@ -1,0 +1,17 @@
+{
+  "serverstatus": "true",
+  "noticemode": "false",
+  "servermeassage": "Maintenance running!",
+  "opentime": "10:00 AM",
+  "notice_title": "Notice",
+  "notice_body": "Welcome!",
+  "floatingtext": "🔥 Hacking Android YT 🔥",
+
+  "green_lib": "https://example.com/libgreen.so",
+  "yellow_lib": "",
+  "brutal_lib": "https://example.com/libbrutal.so",
+
+  "green_msg": "Green Body Activated ✅",
+  "yellow_msg": "Coming Soon",
+  "brutal_msg": "Brutal WH Loaded 🚀"
+}
