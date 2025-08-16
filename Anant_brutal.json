@@ -7,7 +7,7 @@
   "notice_body": "Everything is working properly",
   "floatingtext": "Welcome to Loader!",
 
-  "green_lib": "https://github.com/anant095/BGMI-3.9-wallhack-rebranding/raw/refs/heads/main/libFALL.so",
+  "green_lib": "https://raw.githubusercontent.com/anant095/BGMI-3.9-wallhack-rebranding/main/libFALL.so",
   "green_msg": "Green Body Activated Successfully",
 
   "yellow_lib": "",
