@@ -1,18 +1,9 @@
 {
   "serverstatus": "true",
-  "noticemode": "false",
-  "servermeassage": "Server is running fine",
-  "opentime": "24/7",
-  "notice_title": "Notice",
-  "notice_body": "Everything is working properly",
-  "floatingtext": "Welcome to Loader!",
-
-  "green_lib": "https://raw.githubusercontent.com/anant095/BGMI-3.9-wallhack-rebranding/main/libFALL.so",
-  "green_msg": "Green Body Activated Successfully",
-
-  "yellow_lib": "",
-  "yellow_msg": "Coming Soon",
-
-  "brutal_lib": "https://github.com/anant095/BGMI-3.9-wallhack-rebranding/raw/refs/heads/main/libBRUTAL.so",
-  "brutal_msg": "Brutal Wallhack Activated Successfully"
+  "libs": {
+    "green": "https://example.com/libgreen.so",
+    "yellow": "https://example.com/libyellow.so",
+    "brutal": "https://example.com/libbrutal.so"
+  },
+  "floatingtext": "Choose Hack!"
 }
