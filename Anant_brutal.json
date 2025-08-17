@@ -1,9 +1,14 @@
 {
   "serverstatus": "true",
+  "servermeassage": "Server is online and working fine.",
+  "opentime": "24/7",
+  "noticemode": "true",
+  "notice_title": "Important Notice",
+  "notice_body": "Use hacks at your own risk. Updates will come soon.",
+  "floatingtext": "🔥 Welcome to HackingAndroidYTT 🔥",
   "libs": {
-    "green": "https://example.com/libgreen.so",
-    "yellow": "https://example.com/libyellow.so",
-    "brutal": "https://example.com/libbrutal.so"
-  },
-  "floatingtext": "Choose Hack!"
+    "green": "https://example.com/libs/libGreen.so",
+    "yellow": "https://example.com/libs/libYellow.so",
+    "brutal": "https://example.com/libs/libBrutal.so"
+  }
 }
