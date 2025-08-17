@@ -1,14 +1,19 @@
 {
   "serverstatus": "true",
-  "servermeassage": "Server is online and working fine.",
-  "opentime": "24/7",
-  "noticemode": "true",
-  "notice_title": "Important Notice",
-  "notice_body": "Use hacks at your own risk. Updates will come soon.",
-  "floatingtext": "🔥 Welcome to HackingAndroidYTT 🔥",
-  "libs": {
-    "green": "https://github.com/anant095/BGMI-3.9-wallhack-rebranding/raw/refs/heads/main/libFALL.so",
-    "yellow": "https://example.com/libs/libYellow.so",
-    "brutal": "https://example.com/libs/libBrutal.so"
-  }
+  "servermeassage": "Server Online",
+  "floatingtext": "Select a Lib",
+  "libs": [
+    {
+      "name": "Yellow Body",
+      "url": "https://raw.githubusercontent.com/yourusername/repo/main/YellowBody.so"
+    },
+    {
+      "name": "Green Body",
+      "url": "https://github.com/anant095/BGMI-3.9-wallhack-rebranding/raw/refs/heads/main/libFALL.so"
+    },
+    {
+      "name": "Brutal WH",
+      "url": "https://raw.githubusercontent.com/yourusername/repo/main/BrutalWH.so"
+    }
+  ]
 }
