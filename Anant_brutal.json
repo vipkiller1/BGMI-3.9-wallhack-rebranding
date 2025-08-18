@@ -1,14 +1,19 @@
 {
   "serverstatus": "true",
   "noticemode": "false",
-  "dataclearmode": "false",
-  "servermeassage": "Working fine",
+  "servermeassage": "Welcome",
   "opentime": "Always",
   "notice_title": "Info",
-  "notice_body": "No Notice",
-  "floatingtext": "Choose Your Body",
+  "notice_body": "Choose your lib",
+  "floatingtext": "BGMI Loader Active",
   "libs": [
-    { "name": "Green Body", "url": "https://github.com/anant095/BGMI-3.9-wallhack-rebranding/raw/refs/heads/main/libFALL.so" },
-    { "name": "Yellow Body", "url": "https://example.com/yellow.so" }
+    {
+      "name": "Wallhack Brutal",
+      "url": "https://github.com/anant095/BGMI-3.9-wallhack-rebranding/raw/refs/heads/main/libFALL.so"
+    },
+    {
+      "name": "Aimbot Shadow",
+      "url": "https://example.com/libAimbot.so"
+    }
   ]
 }
