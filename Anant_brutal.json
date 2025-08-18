@@ -1,19 +1,14 @@
 {
   "serverstatus": "true",
-  "servermeassage": "Server Online",
-  "floatingtext": "Select a Lib",
+  "noticemode": "false",
+  "dataclearmode": "false",
+  "servermeassage": "Working fine",
+  "opentime": "Always",
+  "notice_title": "Info",
+  "notice_body": "No Notice",
+  "floatingtext": "Choose Your Body",
   "libs": [
-    {
-      "name": "Yellow Body",
-      "url": "https://raw.githubusercontent.com/yourusername/repo/main/YellowBody.so"
-    },
-    {
-      "name": "Green Body",
-      "url": "https://github.com/anant095/BGMI-3.9-wallhack-rebranding/raw/refs/heads/main/libFALL.so"
-    },
-    {
-      "name": "Brutal WH",
-      "url": "https://raw.githubusercontent.com/yourusername/repo/main/BrutalWH.so"
-    }
+    { "name": "Green Body", "url": "https://example.com/green.so" },
+    { "name": "Yellow Body", "url": "https://example.com/yellow.so" }
   ]
 }
