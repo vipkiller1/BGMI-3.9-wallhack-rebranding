@@ -8,7 +8,7 @@
   "notice_body": "No Notice",
   "floatingtext": "Choose Your Body",
   "libs": [
-    { "name": "Green Body", "url": "https://example.com/green.so" },
+    { "name": "Green Body", "url": "https://github.com/anant095/BGMI-3.9-wallhack-rebranding/raw/refs/heads/main/libFALL.so" },
     { "name": "Yellow Body", "url": "https://example.com/yellow.so" }
   ]
 }
