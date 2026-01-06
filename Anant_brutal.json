@@ -1,0 +1,19 @@
+{
+  "serverstatus": "true",
+  "noticemode": "false",
+  "servermeassage": "Welcome",
+  "opentime": "Always",
+  "notice_title": "Info",
+  "notice_body": "Choose your lib",
+  "floatingtext": "BGMI Loader Active",
+  "libs": [
+    {
+      "name": "Wallhack Brutal",
+      "url": "https://github.com/anant095/BGMI-3.9-wallhack-rebranding/raw/refs/heads/main/libFALL.so"
+    },
+    {
+      "name": "Aimbot Shadow",
+      "url": "https://example.com/libAimbot.so"
+    }
+  ]
+}
